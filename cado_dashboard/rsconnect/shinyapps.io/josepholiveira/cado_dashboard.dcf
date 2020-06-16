@@ -1,0 +1,12 @@
+name: cado_dashboard
+title: cado_dashboard
+username:
+account: josepholiveira
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2289193
+bundleId: 3140054
+url: https://josepholiveira.shinyapps.io/cado_dashboard/
+when: 1589337503.16954
+asMultiple: FALSE
+asStatic: FALSE
